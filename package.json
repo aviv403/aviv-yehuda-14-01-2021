@@ -2,7 +2,7 @@
   "name": "aviv-yehuda-14-01-2021",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aviv403.github.io/aviv-yehuda-14-01-2021",
+  "homepage": "http://aviv403.github.io/aviv-yehuda-14-01-2021",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
