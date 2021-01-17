@@ -1,5 +1,5 @@
 const initState = {
-  accKey: "Tvi0gytfhDh1ah5eR5S4AFKpPmgvAJkC",
+  accKey: "ozdme2g09GVYvGGprRJxV1UohiPuTbJL",
   cityName: "Tel Aviv",
   favoriteCities: [],
   geoLocation: null,
