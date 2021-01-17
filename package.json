@@ -2,7 +2,7 @@
   "name": "aviv-yehuda-14-01-2021",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://aviv403.github.io/aviv-yehuda-14-01-2021",
+  "homepage": "https://aviv403.github.io/aviv-yehuda-14-01-2021",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
@@ -22,12 +22,12 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
